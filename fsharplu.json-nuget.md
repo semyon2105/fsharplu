@@ -3,18 +3,7 @@ The generated Json is more compact and maps more closely to the corresponding va
 For more info check the [project documentation](https://github.com/Microsoft/fsharplu/wiki) on GitHub.
 
 ### Assembly
-FSharpLu.Json.dll
+Microsoft.FSharpLu.Json.dll
 
-### Namespaces
-- FSharp.Async
-- FSharp.Configuration
-- FSharp.Collection
-- FSharp.Diagnostics
-- FSharp.ErrorHandling
-- FSharp.File
-- FSharp.Logger
-- FSharp.Option
-- FSharp.Parsing
-- FSharp.Security
-- FSharp.Text
-- FSharp.TraceLogging
+### Namespace
+- Microsoft.FSharpLu.Json
